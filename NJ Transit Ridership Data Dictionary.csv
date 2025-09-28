@@ -1,0 +1,3 @@
+Variable,Variable Name,Measurement Unit,Allowed Values,Description
+Time Period,Period,mm/yyyy,08/2022-07/2025,Month being measured
+NJ Transit Ridership Figures,Ridership,Numeric,0-infinite,NJ Transit rail passenger number for month
